@@ -90,7 +90,7 @@ O sistema permite acompanhar matrículas, limites de vagas, notas finais e situa
 
 * Oracle SQL
 * PL/SQL
-* SQL Developer (ou similar)
+* SQL Developer
 
 ---
 
@@ -101,3 +101,4 @@ O sistema permite acompanhar matrículas, limites de vagas, notas finais e situa
 ---
 
 > Projeto em desenvolvimento para fins educacionais - prática de modelagem e SQL.
+
